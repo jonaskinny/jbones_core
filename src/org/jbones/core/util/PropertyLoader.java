@@ -6,6 +6,7 @@ import java.io.*;
 public class PropertyLoader
 {
     /**
+     @author <a href="http://www.javaworld.com/columns/jw-qna-index.shtml">Vlad Roubtsov</a> borrowed heavily
      * Looks up a resource named 'name' in the classpath. The resource must map
      * to a file with .properties extention. The name is assumed to be absolute
      * and can use either "/" or "." for package segment separation with an
